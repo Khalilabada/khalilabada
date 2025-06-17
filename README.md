@@ -1,4 +1,6 @@
-Bonjour Khalil Ben Abada 👋
+
+
+Bonjour, je m'appelle Khalil Ben Abada 👋
 
 Je suis Khalil Ben Abada, originaire de Tunisie et résidant actuellement à Nabeul. Je suis étudiant en 1ère année d'ingénierie en informatique et multimédia à l'Institut Supérieur des Arts Multimédia de la Manouba (ISAMM).
 
@@ -10,7 +12,7 @@ Je travaille avec :
 
 ◾ Développement back-end : C, Java, PHP, Python (Flask), Node.js, Spring Boot.
 
-◾ Développement de jeux 3D : C#, Unity.
+◾ Développement de jeux 2-3D : C#, Unity.
 
 ◾ Science des données : Python.
 
