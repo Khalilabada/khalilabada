@@ -1,16 +1,27 @@
-## Hi there 👋
+Bonjour Khalil Ben Abada 👋
 
-<!--
-**Khalilabada/khalilabada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Khalil Ben Abada, originaire de Tunisie et résidant actuellement à Nabeul. Je suis étudiant en 1ère année d'ingénierie en informatique et multimédia à l'Institut Supérieur des Arts Multimédia de la Manouba (ISAMM).
 
-Here are some ideas to get you started:
+Technologies 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je travaille avec :
+
+◾ Développement front-end : HTML, CSS, JavaScript, Angular.
+
+◾ Développement back-end : C, Java, PHP, Python (Flask), Node.js, Spring Boot.
+
+◾ Développement de jeux 3D : C#, Unity.
+
+◾ Science des données : Python.
+
+◾ Bases de données : Oracle SQL Developer.
+
+À propos de moi 😇
+
+◾ Passionné par la programmation ❤️.
+
+◾ 🌱 Actuellement en formation à l'ISAMM.
+
+◾ 💬 N'hésitez pas à me poser des questions, je serai ravi d'aider ! 😊
+
+◾ 📫 Contact : khalilbenabada6@gmail.com
