@@ -8,7 +8,7 @@ Technologies 💻
 
 Je travaille avec :
 
-◾ Développement front-end : HTML, CSS, JavaScript, Angular.
+◾ Développement front-end : HTML, CSS, JavaScript, Angular,React.
 
 ◾ Développement back-end : C, Java, PHP, Python (Flask), Node.js, Spring Boot.
 
@@ -16,7 +16,7 @@ Je travaille avec :
 
 ◾ Science des données : Python.
 
-◾ Bases de données : Oracle SQL Developer.
+◾ Bases de données : Oracle SQL Developer, Mongodb.
 
 À propos de moi 😇
 
