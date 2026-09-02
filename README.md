@@ -1,29 +1,35 @@
+### Bonjour, je m'appelle Khalil Ben Abada 👋
 
+Étudiant ingénieur en Informatique et Multimédia à l'**ISAMM** (Institut Supérieur des Arts Multimédia de la Manouba), originaire de Tunisie. Passionné par le développement Full-Stack et le Machine Learning quantique, j'aime transformer des idées en applications concrètes, de la conception au déploiement.
 
-Bonjour, je m'appelle Khalil Ben Abada 👋
+---
 
-Je suis Khalil Ben Abada, originaire de Tunisie et résidant actuellement à Nabeul. Je suis étudiant en 1ère année d'ingénierie en informatique et multimédia à l'Institut Supérieur des Arts Multimédia de la Manouba (ISAMM).
+### 🚀 Technologies
 
-Technologies 💻
+**Front-end**
+`HTML` `CSS` `JavaScript` `TypeScript` `Angular` `React`
 
-Je travaille avec :
+**Back-end**
+`Java` `C` `C++` `C#` `PHP` `Python (Flask)` `Node.js` `Spring Boot`
 
-◾ Développement front-end : HTML, CSS, JavaScript, Angular,React.
+**IA & Data Science**
+`Python` `PennyLane (Quantum ML)` `Scikit-learn` `Machine Learning`
 
-◾ Développement back-end : C, Java, PHP, Python (Flask), Node.js, Spring Boot.
+**Développement de jeux**
+`C#` `Unity` (2D/3D)
 
-◾ Développement de jeux 2-3D : C#, Unity.
+**Bases de données**
+`PostgreSQL` `MongoDB` `Oracle SQL Developer`
 
-◾ Science des données : Python.
+**Outils**
+`Git` `Docker` `Figma` `Postman`
 
-◾ Bases de données : Oracle SQL Developer, Mongodb.
+---
 
-À propos de moi 😇
+### 🎯 En ce moment
 
-◾ Passionné par la programmation ❤️.
-
-◾ 🌱 Actuellement en formation à l'ISAMM.
-
-◾ 💬 N'hésitez pas à me poser des questions, je serai ravi d'aider ! 😊
-
-◾ 📫 Contact : khalilbenabada6@gmail.com
+- 🔭 Je travaille sur des projets alliant **IA** et **applications full-stack**
+- 🌱 Actuellement en formation d'ingénieur à l'ISAMM
+- 🤝 Ouvert aux opportunités de stage et à la collaboration sur des projets open-source
+- 💬 N'hésitez pas à me contacter pour échanger sur un projet ou une question technique
+- 📫 **Contact :** khalilbenabada6@gmail.com
