@@ -16,7 +16,7 @@
 `Python` `PennyLane (Quantum ML)` `Scikit-learn` `Machine Learning`
 
 **Développement de jeux**
-`C#` `Unity` (2D/3D)
+`C#` `Unity` 'Blender' (2D/3D)
 
 **Bases de données**
 `PostgreSQL` `MongoDB` `Oracle SQL Developer`
